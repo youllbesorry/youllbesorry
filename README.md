@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youllbesorry
-- 👀 I’m interested in programmation and network
-- 🌱 I’m currently learning BUT network and télécomunication
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning at 42 school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
