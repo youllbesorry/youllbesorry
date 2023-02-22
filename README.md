@@ -1,7 +1,6 @@
 
-<p aline="center">
-  <a
-   href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clefg7wir00110fjrevk6uhiw/stats?cursusId=21&coalitionId=302" alt="bfaure's 42 stats"/>
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clefg7wir00110fjrevk6uhiw/stats?cursusId=21&coalitionId=302" alt="bfaure's 42 stats"/>
   </a>
 </p>
 
