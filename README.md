@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="center">
-	<a href="https://profile.intra.42.fr/users/bfaure"><img src="https://badge42.vercel.app/api/v2/clcsxiibw00830flawow85lxv/stats?cursusId=21&coalitionId=304" alt="bfaure's 42 stats" /></a>
-	</a>
-</p>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clefg7wir00110fjrevk6uhiw/stats?cursusId=21&coalitionId=302" alt="bfaure's 42 stats"/></a>
 
 <!---
 youllbesorry/youllbesorry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
