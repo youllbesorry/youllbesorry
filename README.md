@@ -13,9 +13,11 @@
 ### 🚀 School projects:
 <details>
   <summary> 42 common core projects </summary>
-  - [LibFT] (https://github.com/youllbesorry/libft)
-  - [MiniShell] (https://github.com/ZEDIUM-Off/42LiteBash)
-  - [FT-IRC] (https://github.com/youllbesorry/FT_IRCheat)
+  
+  - [LibFT](https://github.com/youllbesorry/libft)
+  - [MiniShell](https://github.com/ZEDIUM-Off/42LiteBash)
+  - [FT-IRC](https://github.com/youllbesorry/FT_IRCheat)
+  
 </details>
 
 <h3 align="left">Connect with me:</h3>
