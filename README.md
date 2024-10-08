@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">Student at 42 School</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youllbesorry&label=Profile%20views&color=0e75b6&style=flat" alt="youllbesorry" /> </p>
-
 ### 📊 GitHub Stats:
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=youllbesorry&show_icons=true&theme=radical&locale=en" alt="youllbesorry" />
@@ -16,7 +13,9 @@
 ### 🚀 School projects:
 <details>
   <summary> 42 common core projects </summary>
-
+  - [LibFT] (https://github.com/youllbesorry/libft)
+  - [MiniShell] (https://github.com/ZEDIUM-Off/42LiteBash)
+  - [FT-IRC] (https://github.com/youllbesorry/FT_IRCheat)
 </details>
 
 <h3 align="left">Connect with me:</h3>
