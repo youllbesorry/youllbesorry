@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youllbesorry&label=Profile%20views&color=0e75b6&style=flat" alt="youllbesorry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youllbesorry" alt="youllbesorry" /></a> </p>
+### 📊 GitHub Stats:
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=youllbesorry&show_icons=true&theme=radical&locale=en" alt="youllbesorry" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youllbesorry&show_icons=true&theme=radical&locale=en&layout=compact" alt="youllbesorry" height="195">
+  </p>
 
 - 🔭 I’m currently working on [ft_transcendance](https://github.com/TheTerror-coder/ft_transcendance)
 
