@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! En tant qu'étudiant à l'école 42, je suis p
 - [**cub3D**](https://github.com/youllbesorry/cub3D)  
   Un moteur de jeu 3D simple utilisant la bibliothèque MiniLibX, inspiré de Wolfenstein 3D, mettant en avant le raycasting et la gestion graphique en C.
 
-- [**ft_transcendence**](https://github.com/youllbesorry/ft_transcendence)  
+- [**ft_transcendence**](https://github.com/TheTerror-coder/ft_transcendance)  
   Développement d'une application web complète en utilisant NestJS, TypeScript et d'autres technologies modernes, démontrant des compétences en développement full-stack.
 
 ## 📊 Statistiques GitHub
