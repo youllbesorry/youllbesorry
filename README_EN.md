@@ -43,6 +43,6 @@ Welcome to my GitHub profile! As a student at 42 School, I'm passionate about so
 
 ---
 
-💬 Feel free to explore my repositories or reach out for collaboration or questions!
+💬 Feel free to explore my repositories !
 
 [🇫🇷 Voir en français](README.md)

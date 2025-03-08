@@ -43,6 +43,6 @@ Bienvenue sur mon profil GitHub ! En tant qu'étudiant à l'école 42, je suis p
 
 ---
 
-💬 N'hésitez pas à explorer mes dépôts ou à me contacter pour toute collaboration ou question !
+💬 N'hésitez pas à explorer mes dépôts !
 
 [🇬🇧 Read this in English](README_EN.md)
