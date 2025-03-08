@@ -23,7 +23,7 @@ Bienvenue sur mon profil GitHub ! En tant qu'étudiant à l'école 42, je suis p
 - [**minishell**](https://github.com/youllbesorry/minishell)  
   Création d'un shell minimaliste capable d'exécuter des commandes simples, mettant en avant la gestion des processus et des signaux en C.
 
-- [**Philosophers**](https://github.com/youllbesorry/Philosophers)  
+- [**Philosophers**](https://github.com/youllbesorry/Philo)  
   Implémentation du problème classique des philosophes mangeurs, illustrant la gestion des threads et des mutex en C.
 
 - [**cub3D**](https://github.com/youllbesorry/XenoCube)  
