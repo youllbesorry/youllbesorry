@@ -1,0 +1,40 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"  # Mise à jour quotidienne à minuit
+  workflow_dispatch:  # Permet de lancer manuellement l'action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Generate README (French)
+        run: |
+          export README_LANG=fr
+          python generate_readme.py
+
+      - name: Generate README (English)
+        run: |
+          export README_LANG=en
+          python generate_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions@github.com"
+          git add README.md README_EN.md
+          git commit -m "Auto-update README files" || echo "No changes to commit"
+          git push
