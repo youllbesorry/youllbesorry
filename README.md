@@ -26,7 +26,7 @@ Bienvenue sur mon profil GitHub ! En tant qu'étudiant à l'école 42, je suis p
 - [**Philosophers**](https://github.com/youllbesorry/Philosophers)  
   Implémentation du problème classique des philosophes mangeurs, illustrant la gestion des threads et des mutex en C.
 
-- [**cub3D**](https://github.com/youllbesorry/cub3D)  
+- [**cub3D**](https://github.com/youllbesorry/XenoCube)  
   Un moteur de jeu 3D simple utilisant la bibliothèque MiniLibX, inspiré de Wolfenstein 3D, mettant en avant le raycasting et la gestion graphique en C.
 
 - [**ft_transcendence**](https://github.com/TheTerror-coder/ft_transcendance)  
