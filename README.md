@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! En tant qu'étudiant à l'école 42, je suis p
 - [**cub3D**](https://github.com/youllbesorry/XenoCube)  
   Un moteur de jeu 3D simple utilisant la bibliothèque MiniLibX, inspiré de Wolfenstein 3D, mettant en avant le raycasting et la gestion graphique en C.
 
-- [**IRC Server**](https://github.com/youllbesorry/irc)  
+- [**IRC Server**](https://github.com/youllbesorry/FT_IRCheat)  
   Implémentation d'un serveur IRC conforme au protocole RFC 1459. Ce projet met en avant la gestion des sockets, la communication réseau en C++ et la mise en place d'un serveur multi-clients capable de gérer les salons de discussion, les commandes utilisateur et l'authentification.
 
 - [**ft_transcendence**](https://github.com/TheTerror-coder/ft_transcendance)  
